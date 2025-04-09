@@ -1,0 +1,6 @@
+@Nyakko.EduConnect.API_HostAddress = http://localhost:5159
+
+GET {{Nyakko.EduConnect.API_HostAddress}}/EduConnect/
+Accept: application/json
+
+###

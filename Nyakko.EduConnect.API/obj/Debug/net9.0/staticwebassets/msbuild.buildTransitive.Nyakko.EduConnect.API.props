@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Nyakko.EduConnect.API.props" />
+</Project>
