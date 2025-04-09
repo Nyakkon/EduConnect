@@ -1,0 +1,44 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Nyakko API",
+    "description": "API for EduConnect",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/users/logs": {
+      "get": {
+        "tags": [
+          "User"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/users/say-hello": {
+      "get": {
+        "tags": [
+          "User"
+        ],
+        "parameters": [
+          {
+            "name": "name",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

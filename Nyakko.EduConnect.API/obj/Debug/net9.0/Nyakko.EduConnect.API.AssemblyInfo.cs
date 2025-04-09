@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nyakko.EduConnect.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06f270cf412ceba0d4d049ffe507925d33c9fda7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nyakko.EduConnect.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nyakko.EduConnect.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

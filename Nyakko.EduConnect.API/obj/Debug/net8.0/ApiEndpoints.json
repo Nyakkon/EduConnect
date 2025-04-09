@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Nyakko.EduConnect.API.Controllers.UserController",
+    "Method": "LogTest",
+    "RelativePath": "api/users/logs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Nyakko.EduConnect.API.Controllers.UserController",
+    "Method": "SayHello",
+    "RelativePath": "api/users/say-hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
