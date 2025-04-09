@@ -19,9 +19,9 @@ builder.Services.AddSwaggerGen(options =>
 {
     options.SwaggerDoc("v1", new OpenApiInfo
     {
-        Title = "Nyakko API",
+        Title = "EduConnect API",
         Version = "v1",
-        Description = "API for EduConnect",
+        Description = "API for EduConnect By Nyakko Team",
     });
 });
 

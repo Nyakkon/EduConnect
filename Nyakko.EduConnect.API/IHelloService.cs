@@ -9,7 +9,7 @@
     {
         public string SayHello(string name)
         {
-            return "Xin chào " + name;
+            return @$"Xin chào {name}, đây là nơi test RestfulAPI" ;
         }
     }
 }

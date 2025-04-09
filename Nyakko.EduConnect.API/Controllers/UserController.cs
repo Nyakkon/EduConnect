@@ -29,7 +29,7 @@ namespace Nyakko.EduConnect.API.Controllers
         }
 
         [HttpGet("say-hello")]
-        public IActionResult SayHello([FromQuery] string name)
+        public IActionResult GetNameFromQuery([FromQuery] string name)
         {
             var result = _helloService.SayHello(name);
             return Ok(result);

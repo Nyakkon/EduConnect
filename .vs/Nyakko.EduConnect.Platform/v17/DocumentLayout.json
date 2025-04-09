@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|d:\\users\\desktop\\project\\nyakko.educonnect.platform\\nyakko.educonnect.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|solutionrelative:nyakko.educonnect.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|d:\\users\\desktop\\project\\nyakko.educonnect.platform\\nyakko.educonnect.api\\nyakko.educonnect.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|solutionrelative:nyakko.educonnect.api\\nyakko.educonnect.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|d:\\users\\desktop\\project\\nyakko.educonnect.platform\\nyakko.educonnect.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|solutionrelative:nyakko.educonnect.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|d:\\users\\desktop\\project\\nyakko.educonnect.platform\\nyakko.educonnect.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|solutionrelative:nyakko.educonnect.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|d:\\users\\desktop\\project\\nyakko.educonnect.platform\\nyakko.educonnect.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|solutionrelative:nyakko.educonnect.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|d:\\users\\desktop\\project\\nyakko.educonnect.platform\\nyakko.educonnect.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|solutionrelative:nyakko.educonnect.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|d:\\users\\desktop\\project\\nyakko.educonnect.platform\\nyakko.educonnect.api\\ihelloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|solutionrelative:nyakko.educonnect.api\\ihelloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|d:\\users\\desktop\\project\\nyakko.educonnect.platform\\nyakko.educonnect.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|solutionrelative:nyakko.educonnect.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|d:\\users\\desktop\\project\\nyakko.educonnect.platform\\nyakko.educonnect.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -33,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|d:\\users\\desktop\\project\\nyakko.educonnect.platform\\nyakko.educonnect.api\\nyakko.educonnect.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|solutionrelative:nyakko.educonnect.api\\nyakko.educonnect.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|d:\\users\\desktop\\project\\nyakko.educonnect.platform\\nyakko.educonnect.api\\ihelloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|solutionrelative:nyakko.educonnect.api\\ihelloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|d:\\users\\desktop\\project\\nyakko.educonnect.platform\\nyakko.educonnect.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CC5A2FA-8E56-468B-BFF0-F23559EE8949}|Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj|solutionrelative:nyakko.educonnect.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,89 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Nyakko.EduConnect.API\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Nyakko.EduConnect.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-09T13:11:36.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Nyakko.EduConnect.API\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Nyakko.EduConnect.API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAswCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T03:35:31.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IHelloService.cs",
-              "DocumentMoniker": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\IHelloService.cs",
-              "RelativeDocumentMoniker": "Nyakko.EduConnect.API\\IHelloService.cs",
-              "ToolTip": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\IHelloService.cs",
-              "RelativeToolTip": "Nyakko.EduConnect.API\\IHelloService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T12:53:01.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Nyakko.EduConnect.API\\appsettings.json",
-              "ToolTip": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\appsettings.json",
-              "RelativeToolTip": "Nyakko.EduConnect.API\\appsettings.json",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAADkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-09T12:30:40.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Program.cs",
-              "RelativeDocumentMoniker": "Nyakko.EduConnect.API\\Program.cs",
-              "ToolTip": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Program.cs",
-              "RelativeToolTip": "Nyakko.EduConnect.API\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T05:17:04.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Nyakko.EduConnect.API",
-              "DocumentMoniker": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj",
-              "RelativeDocumentMoniker": "Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj",
-              "ToolTip": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj",
-              "RelativeToolTip": "Nyakko.EduConnect.API\\Nyakko.EduConnect.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-09T13:04:15.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Nyakko.EduConnect.API\\appsettings.Development.json",
@@ -137,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Nyakko.EduConnect.API.http",
               "DocumentMoniker": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Nyakko.EduConnect.API.http",
               "RelativeDocumentMoniker": "Nyakko.EduConnect.API\\Nyakko.EduConnect.API.http",
@@ -146,6 +64,71 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-04-07T05:13:47.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Nyakko.EduConnect.API\\appsettings.json",
+              "ToolTip": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\appsettings.json",
+              "RelativeToolTip": "Nyakko.EduConnect.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T12:30:40.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IHelloService.cs",
+              "DocumentMoniker": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\IHelloService.cs",
+              "RelativeDocumentMoniker": "Nyakko.EduConnect.API\\IHelloService.cs",
+              "ToolTip": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\IHelloService.cs",
+              "RelativeToolTip": "Nyakko.EduConnect.API\\IHelloService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:53:01.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Nyakko.EduConnect.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Nyakko.EduConnect.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:35:31.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Nyakko.EduConnect.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Nyakko.EduConnect.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T13:11:36.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Program.cs",
+              "RelativeDocumentMoniker": "Nyakko.EduConnect.API\\Program.cs",
+              "ToolTip": "D:\\Users\\Desktop\\Project\\Nyakko.EduConnect.Platform\\Nyakko.EduConnect.API\\Program.cs",
+              "RelativeToolTip": "Nyakko.EduConnect.API\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:17:04.889Z",
               "EditorCaption": ""
             }
           ]

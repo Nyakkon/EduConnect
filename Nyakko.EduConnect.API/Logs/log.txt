@@ -1,0 +1,171 @@
+[2025-04-09 22:04:47 INF] Now listening on: https://localhost:7140
+[2025-04-09 22:04:48 INF] Now listening on: http://localhost:5159
+[2025-04-09 22:04:48 INF] Application started. Press Ctrl+C to shut down.
+[2025-04-09 22:04:48 INF] Hosting environment: Development
+[2025-04-09 22:04:48 INF] Content root path: D:\Users\Desktop\Project\Nyakko.EduConnect.Platform\Nyakko.EduConnect.API
+[2025-04-09 22:04:51 INF] Request starting HTTP/2 GET https://localhost:7140/api/users/say-hello?name=Test - null null
+[2025-04-09 22:04:51 INF] Executing endpoint 'Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API)'
+[2025-04-09 22:04:51 INF] Route matched with {action = "GetNameFromQuery", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetNameFromQuery(System.String) on controller Nyakko.EduConnect.API.Controllers.UserController (Nyakko.EduConnect.API).
+[2025-04-09 22:04:51 INF] Executing action method Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API) - Validation state: "Valid"
+[2025-04-09 22:04:51 INF] Executed action method Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.2804ms.
+[2025-04-09 22:04:51 INF] Executing OkObjectResult, writing value of type 'System.String'.
+[2025-04-09 22:04:51 INF] Executed action Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API) in 71.2637ms
+[2025-04-09 22:04:51 INF] Executed endpoint 'Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API)'
+[2025-04-09 22:04:51 INF] Request finished HTTP/2 GET https://localhost:7140/api/users/say-hello?name=Test - 200 null text/plain; charset=utf-8 131.9873ms
+[2025-04-09 22:05:16 INF] Now listening on: https://localhost:7140
+[2025-04-09 22:05:16 INF] Now listening on: http://localhost:5159
+[2025-04-09 22:05:16 INF] Application started. Press Ctrl+C to shut down.
+[2025-04-09 22:05:16 INF] Hosting environment: Development
+[2025-04-09 22:05:16 INF] Content root path: D:\Users\Desktop\Project\Nyakko.EduConnect.Platform\Nyakko.EduConnect.API
+[2025-04-09 22:05:18 INF] Request starting HTTP/2 GET https://localhost:7140/api/users/say-hello?name=Test - null null
+[2025-04-09 22:05:18 INF] Executing endpoint 'Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API)'
+[2025-04-09 22:05:18 INF] Route matched with {action = "GetNameFromQuery", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetNameFromQuery(System.String) on controller Nyakko.EduConnect.API.Controllers.UserController (Nyakko.EduConnect.API).
+[2025-04-09 22:05:18 INF] Executing action method Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API) - Validation state: "Valid"
+[2025-04-09 22:05:18 INF] Executed action method Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.3144ms.
+[2025-04-09 22:05:18 INF] Executing OkObjectResult, writing value of type 'System.String'.
+[2025-04-09 22:05:18 INF] Executed action Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API) in 67.5381ms
+[2025-04-09 22:05:18 INF] Executed endpoint 'Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API)'
+[2025-04-09 22:05:18 INF] Request finished HTTP/2 GET https://localhost:7140/api/users/say-hello?name=Test - 200 null text/plain; charset=utf-8 129.4769ms
+[2025-04-09 22:05:19 INF] Request starting HTTP/2 GET https://localhost:7140/api/users/say-hello?name=Test - null null
+[2025-04-09 22:05:19 INF] Executing endpoint 'Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API)'
+[2025-04-09 22:05:19 INF] Route matched with {action = "GetNameFromQuery", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetNameFromQuery(System.String) on controller Nyakko.EduConnect.API.Controllers.UserController (Nyakko.EduConnect.API).
+[2025-04-09 22:05:19 INF] Executing action method Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API) - Validation state: "Valid"
+[2025-04-09 22:05:19 INF] Executed action method Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.0487ms.
+[2025-04-09 22:05:19 INF] Executing OkObjectResult, writing value of type 'System.String'.
+[2025-04-09 22:05:19 INF] Executed action Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API) in 15.6953ms
+[2025-04-09 22:05:19 INF] Executed endpoint 'Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API)'
+[2025-04-09 22:05:19 INF] Request finished HTTP/2 GET https://localhost:7140/api/users/say-hello?name=Test - 200 null text/plain; charset=utf-8 23.7836ms
+[2025-04-09 22:05:19 INF] Request starting HTTP/2 GET https://localhost:7140/api/users/say-hello?name=Test - null null
+[2025-04-09 22:05:19 INF] Executing endpoint 'Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API)'
+[2025-04-09 22:05:19 INF] Route matched with {action = "GetNameFromQuery", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetNameFromQuery(System.String) on controller Nyakko.EduConnect.API.Controllers.UserController (Nyakko.EduConnect.API).
+[2025-04-09 22:05:19 INF] Executing action method Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API) - Validation state: "Valid"
+[2025-04-09 22:05:19 INF] Executed action method Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.0128ms.
+[2025-04-09 22:05:19 INF] Executing OkObjectResult, writing value of type 'System.String'.
+[2025-04-09 22:05:19 INF] Executed action Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API) in 13.417ms
+[2025-04-09 22:05:19 INF] Executed endpoint 'Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API)'
+[2025-04-09 22:05:19 INF] Request finished HTTP/2 GET https://localhost:7140/api/users/say-hello?name=Test - 200 null text/plain; charset=utf-8 20.6918ms
+[2025-04-09 22:09:29 INF] Now listening on: https://localhost:7140
+[2025-04-09 22:09:30 INF] Now listening on: http://localhost:5159
+[2025-04-09 22:09:30 INF] Application started. Press Ctrl+C to shut down.
+[2025-04-09 22:09:30 INF] Hosting environment: Development
+[2025-04-09 22:09:30 INF] Content root path: D:\Users\Desktop\Project\Nyakko.EduConnect.Platform\Nyakko.EduConnect.API
+[2025-04-09 22:09:36 INF] Request starting HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - null null
+[2025-04-09 22:09:36 INF] Request finished HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 19.7054ms
+[2025-04-09 22:09:36 INF] Request starting HTTP/2 GET https://localhost:7140/_vs/browserLink - null null
+[2025-04-09 22:09:36 INF] Request finished HTTP/2 GET https://localhost:7140/_vs/browserLink - 200 null text/javascript; charset=UTF-8 56.1423ms
+[2025-04-09 22:09:36 INF] Request starting HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - null null
+[2025-04-09 22:09:36 INF] Request finished HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 32.5904ms
+[2025-04-09 22:09:48 INF] Request starting HTTP/2 GET https://localhost:7140/api/users/logs - null null
+[2025-04-09 22:09:48 INF] Executing endpoint 'Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API)'
+[2025-04-09 22:09:48 INF] Route matched with {action = "LogTest", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult LogTest() on controller Nyakko.EduConnect.API.Controllers.UserController (Nyakko.EduConnect.API).
+[2025-04-09 22:09:48 INF] Executing action method Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API) - Validation state: "Valid"
+[2025-04-09 22:09:48 INF] LogInformation
+[2025-04-09 22:09:48 WRN] LogWarning
+[2025-04-09 22:09:48 ERR] LogError
+[2025-04-09 22:09:48 FTL] LogCritical
+[2025-04-09 22:09:48 INF] Executed action method Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 3.2905ms.
+[2025-04-09 22:09:48 INF] Executing OkObjectResult, writing value of type 'System.String'.
+[2025-04-09 22:09:48 INF] Executed action Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API) in 54.4275ms
+[2025-04-09 22:09:48 INF] Executed endpoint 'Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API)'
+[2025-04-09 22:09:48 INF] Request finished HTTP/2 GET https://localhost:7140/api/users/logs - 200 null text/plain; charset=utf-8 84.8727ms
+[2025-04-09 22:09:56 INF] Request starting HTTP/2 GET https://localhost:7140/api/users/logs - null null
+[2025-04-09 22:09:56 INF] Executing endpoint 'Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API)'
+[2025-04-09 22:09:56 INF] Route matched with {action = "LogTest", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult LogTest() on controller Nyakko.EduConnect.API.Controllers.UserController (Nyakko.EduConnect.API).
+[2025-04-09 22:09:56 INF] Executing action method Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API) - Validation state: "Valid"
+[2025-04-09 22:09:56 INF] LogInformation
+[2025-04-09 22:09:56 WRN] LogWarning
+[2025-04-09 22:09:56 ERR] LogError
+[2025-04-09 22:09:56 FTL] LogCritical
+[2025-04-09 22:09:56 INF] Executed action method Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 2.2508ms.
+[2025-04-09 22:09:56 INF] Executing OkObjectResult, writing value of type 'System.String'.
+[2025-04-09 22:09:56 INF] Executed action Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API) in 19.4832ms
+[2025-04-09 22:09:56 INF] Executed endpoint 'Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API)'
+[2025-04-09 22:09:56 INF] Request finished HTTP/2 GET https://localhost:7140/api/users/logs - 200 null text/plain; charset=utf-8 29.4684ms
+[2025-04-09 22:10:27 INF] Now listening on: https://localhost:7140
+[2025-04-09 22:10:27 INF] Now listening on: http://localhost:5159
+[2025-04-09 22:10:27 INF] Application started. Press Ctrl+C to shut down.
+[2025-04-09 22:10:27 INF] Hosting environment: Development
+[2025-04-09 22:10:27 INF] Content root path: D:\Users\Desktop\Project\Nyakko.EduConnect.Platform\Nyakko.EduConnect.API
+[2025-04-09 22:10:33 INF] Request starting HTTP/2 GET https://localhost:7140/_vs/browserLink - null null
+[2025-04-09 22:10:33 INF] Request starting HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - null null
+[2025-04-09 22:10:33 INF] Request finished HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 52.2499ms
+[2025-04-09 22:10:33 INF] Request finished HTTP/2 GET https://localhost:7140/_vs/browserLink - 200 null text/javascript; charset=UTF-8 75.2484ms
+[2025-04-09 22:10:33 INF] Request starting HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - null null
+[2025-04-09 22:10:33 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-04-09 22:10:33 INF] Request finished HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 39.2205ms
+[2025-04-09 22:11:00 INF] Now listening on: https://localhost:7140
+[2025-04-09 22:11:00 INF] Now listening on: http://localhost:5159
+[2025-04-09 22:11:00 INF] Application started. Press Ctrl+C to shut down.
+[2025-04-09 22:11:00 INF] Hosting environment: Development
+[2025-04-09 22:11:00 INF] Content root path: D:\Users\Desktop\Project\Nyakko.EduConnect.Platform\Nyakko.EduConnect.API
+[2025-04-09 22:11:05 INF] Request starting HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - null null
+[2025-04-09 22:11:05 INF] Request starting HTTP/2 GET https://localhost:7140/_vs/browserLink - null null
+[2025-04-09 22:11:06 INF] Request finished HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 39.1419ms
+[2025-04-09 22:11:06 INF] Request finished HTTP/2 GET https://localhost:7140/_vs/browserLink - 200 null text/javascript; charset=UTF-8 70.5542ms
+[2025-04-09 22:11:06 INF] Request starting HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - null null
+[2025-04-09 22:11:06 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-04-09 22:11:06 INF] Request finished HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 39.1196ms
+[2025-04-09 22:11:25 INF] Request starting HTTP/2 GET https://localhost:7140/_vs/browserLink - null null
+[2025-04-09 22:11:25 INF] Request starting HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - null null
+[2025-04-09 22:11:25 INF] Request finished HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 8.6369ms
+[2025-04-09 22:11:25 INF] Request finished HTTP/2 GET https://localhost:7140/_vs/browserLink - 200 null text/javascript; charset=UTF-8 22.8251ms
+[2025-04-09 22:11:25 INF] Request starting HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - null null
+[2025-04-09 22:11:25 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-04-09 22:11:25 INF] Request finished HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 10.1864ms
+[2025-04-09 22:11:51 INF] Now listening on: https://localhost:7140
+[2025-04-09 22:11:51 INF] Now listening on: http://localhost:5159
+[2025-04-09 22:11:51 INF] Application started. Press Ctrl+C to shut down.
+[2025-04-09 22:11:51 INF] Hosting environment: Development
+[2025-04-09 22:11:51 INF] Content root path: D:\Users\Desktop\Project\Nyakko.EduConnect.Platform\Nyakko.EduConnect.API
+[2025-04-09 22:11:56 INF] Request starting HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - null null
+[2025-04-09 22:11:56 INF] Request starting HTTP/2 GET https://localhost:7140/_vs/browserLink - null null
+[2025-04-09 22:11:56 INF] Request finished HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 34.7335ms
+[2025-04-09 22:11:56 INF] Request finished HTTP/2 GET https://localhost:7140/_vs/browserLink - 200 null text/javascript; charset=UTF-8 67.0086ms
+[2025-04-09 22:11:57 INF] Request starting HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - null null
+[2025-04-09 22:11:57 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Nyakko.EduConnect.API.Controllers.UserController.LogTest (Nyakko.EduConnect.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-04-09 22:11:57 INF] Request finished HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 39.0657ms
+[2025-04-09 22:12:36 INF] Now listening on: https://localhost:7140
+[2025-04-09 22:12:36 INF] Now listening on: http://localhost:5159
+[2025-04-09 22:12:36 INF] Application started. Press Ctrl+C to shut down.
+[2025-04-09 22:12:36 INF] Hosting environment: Development
+[2025-04-09 22:12:36 INF] Content root path: D:\Users\Desktop\Project\Nyakko.EduConnect.Platform\Nyakko.EduConnect.API

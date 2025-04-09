@@ -11,7 +11,7 @@
   },
   {
     "ContainingType": "Nyakko.EduConnect.API.Controllers.UserController",
-    "Method": "SayHello",
+    "Method": "GetNameFromQuery",
     "RelativePath": "api/users/say-hello",
     "HttpMethod": "GET",
     "IsController": true,
