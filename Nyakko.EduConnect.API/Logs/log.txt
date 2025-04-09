@@ -169,3 +169,11 @@ Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP meth
 [2025-04-09 22:12:36 INF] Application started. Press Ctrl+C to shut down.
 [2025-04-09 22:12:36 INF] Hosting environment: Development
 [2025-04-09 22:12:36 INF] Content root path: D:\Users\Desktop\Project\Nyakko.EduConnect.Platform\Nyakko.EduConnect.API
+[2025-04-10 00:02:55 INF] Now listening on: https://localhost:7140
+[2025-04-10 00:02:55 INF] Now listening on: http://localhost:5159
+[2025-04-10 00:02:55 INF] Application started. Press Ctrl+C to shut down.
+[2025-04-10 00:02:55 INF] Hosting environment: Development
+[2025-04-10 00:02:55 INF] Content root path: D:\Users\Desktop\Project\Nyakko.EduConnect.Platform\Nyakko.EduConnect.API
+[2025-04-10 00:03:04 INF] Request starting HTTP/2 GET https://localhost:7140/ - null null
+[2025-04-10 00:03:04 INF] Request finished HTTP/2 GET https://localhost:7140/ - 404 0 null 159.129ms
+[2025-04-10 00:03:04 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7140/, Response status code: 404

@@ -1,12 +1,10 @@
-
-using System.ComponentModel.Design;
 using Microsoft.OpenApi.Models;
 using Nyakko.EduConnect.API;
 using Serilog;
+
 var builder = WebApplication.CreateBuilder(args);
 
-
-builder.Host.UseSerilog((Context, configuration) => 
+builder.Host.UseSerilog((Context, configuration) =>
     configuration.ReadFrom.Configuration(Context.Configuration));
 // Add services to the container.
 ;
@@ -24,7 +22,6 @@ builder.Services.AddSwaggerGen(options =>
         Description = "API for EduConnect By Nyakko Team",
     });
 });
-
 
 var app = builder.Build();
 
