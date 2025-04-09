@@ -4,7 +4,7 @@ All rights reserved.
 Project: Nyakko.EduConnect.Platform  
 Repository: https://github.com/Nyakkon/Nyakko.EduConnect.Platform  
 Created at: 06:30 PM, 04/09/2025 (MM/DD/YYYY) GMT+7  
-Last License Revision: 01:00 AM, 04/10/2025 (MM/DD/YYYY) GMT+7
+Last License Revision: 01:45 AM, 04/10/2025 (MM/DD/YYYY) GMT+7
 
 Nyakko.EduConnect.Platform is a proprietary software system developed and maintained by the Nyakko Team with valuable support from both official members and contributors from the community. We sincerely appreciate all contributions; however, all legal rights, ownership, and intellectual property of this project are solely and irrevocably held by the Nyakko Team.
 
@@ -41,13 +41,9 @@ You are also solely liable for any consequences arising from distributing a modi
 
 Please be aware that the Nyakko Team is not responsible for any damage, losses, or liabilities caused by your unauthorized redistribution of this software. If you distribute the source code in violation of this license, you do so entirely at your own risk.
 
-You may only contribute to this project through pull requests directed at a newly created branch. You are not permitted to fork and distribute the code as your own or integrate it into another project without authorization.
+Note: You may only contribute to this project through pull requests directed at a newly created branch. You are not permitted to fork and distribute the code as your own or integrate it into another project without authorization.
 
 You may be held responsible for damages (including legal fees and attorney costs) if you falsely claim that a material or action does not infringe intellectual property rights. If you are unsure whether a specific item is infringing, we strongly recommend you consult a legal professional before proceeding.
-
-This license is perpetual and irrevocable unless explicitly replaced or revoked in writing by the Nyakko Team.
-
-Jurisdiction: This license shall be governed and enforced under the laws of the jurisdiction in which the violation occurs or where the violating party resides, at the sole discretion of the Nyakko Team.
 
 Definitions:  
 - “Software”: refers to all files, content, and logic contained in this repository.  
@@ -60,8 +56,14 @@ Disclaimer of Warranty:
 This software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, title, or non-infringement.  
 Under no circumstance shall the Nyakko Team be liable for any damages or losses — direct, indirect, incidental, or consequential — arising from the use or inability to use the software, even if advised of the possibility of such damages.
 
+Termination:  
+This license is perpetual, irrevocable, and non-transferable unless explicitly replaced or revoked in writing by the Nyakko Team. Violating any term in this license immediately voids any implicit or assumed right of use.
+
+Jurisdiction:  
+This license shall be governed by and interpreted in accordance with the laws of the jurisdiction where the violation occurs or where the violator resides, at the sole discretion of the Nyakko Team.
+
 Entire Agreement:  
-This license constitutes the entire agreement between you and the Nyakko Team with respect to the software and supersedes any prior communication or understanding. Any waiver or modification must be made in writing and signed by an authorized representative of the Nyakko Team.
+This license constitutes the entire agreement between you and the Nyakko Team with respect to the Software and supersedes all prior or contemporaneous communications, understandings, or agreements. Any modification must be in writing and signed by an authorized representative of the Nyakko Team.
 
 For licensing, contributions, collaboration, or commercial inquiries, please contact:  
 admin@wibu.me
