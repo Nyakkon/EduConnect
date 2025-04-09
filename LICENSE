@@ -1,7 +1,52 @@
-Copyright (c) 2025 Nyakko Team
-
+Copyright (c) 2025 Nyakko Team  
 All rights reserved.
 
-This source code and all related materials are the exclusive property of the Nyakko Team. Unauthorized use, reproduction, modification, or distribution is strictly prohibited.
+Project: Nyakko.EduConnect.Platform  
+Repository: https://github.com/Nyakkon/Nyakko.EduConnect.Platform  
+Created at: 06:30 PM, 04/09/2025 (MM/DD/YYYY) GMT+7
+Last License Revision: 01:00 AM, 04/10/2025 (MM/DD/YYYY) GMT+7
 
-Contact: admin@wibu.me
+Nyakko.EduConnect.Platform is a proprietary software system developed and maintained by the Nyakko Team with valuable support from both official members and contributors from the community. We sincerely appreciate all contributions; however, all legal rights, ownership, and intellectual property of this project are solely and irrevocably held by the Nyakko Team.
+
+This ownership applies to the entirety of the repository and includes, but is not limited to:
+
+- All frontend and backend source code  
+- User interface (UI) and user experience (UX) designs, layout structures, style guides, and visual elements  
+- Business logic, services, workflows, controller layers, and background jobs  
+- API definitions, configuration and environment files, system-level scripts  
+- Database schemas, entity relationships, seed data, migrations, and indexing logic  
+- Integration layers, third-party communication code (e.g., OAuth, APIs)  
+- All documentation, developer guides, manuals, diagrams, architecture overviews  
+- README files, changelogs, contribution guides, and license metadata  
+- Test cases, mock data, debug utilities, and development tooling  
+- Any other digital asset or material in this repository not governed by a separate explicit open-source license  
+
+All components of this repository are protected under international copyright and intellectual property laws.
+
+Any reproduction, redistribution, modification, sublicensing, reverse engineering, integration into other systems, or public/commercial use — in part or in full — is strictly prohibited without explicit, written permission from the Nyakko Team.
+
+You may not sell, license, share, or distribute this source code or any part of it in any form — physical, digital, embedded, or otherwise. This includes free redistribution or monetization attempts via platforms, software bundles, educational content, or commercial services. Only the Nyakko Team, operating under the domain wibu.me, retains the full and exclusive right to:
+
+- Distribute the source code or any derivative works  
+- Monetize the project and convert it into revenue-bearing services or products  
+- Decide whether or not to share future profit with contributors  
+
+Revenue generated from this software is strictly used to support server infrastructure, maintenance, continued development, and the operational needs of the Nyakko Team. No portion of future revenue is guaranteed or owed to community contributors unless separately agreed in writing.
+
+This project is not distributed under any open-source or permissive license.
+
+By using, attempting to redistribute, or modifying any part of this repository without permission, **you accept full legal responsibility** for any violation of copyright laws or misuse of the software.  
+You are fully responsible under applicable laws for any damages, penalties, or legal actions resulting from unauthorized sale or distribution of the source code.  
+You are also solely liable for any consequences arising from distributing a modified or unsecured version of this software — including but not limited to system failures, security breaches, or data loss.
+
+Please be aware that the Nyakko Team is not responsible for any damage, losses, or liabilities caused by your unauthorized redistribution of this software. If you distribute the source code in violation of this license, you do so entirely at your own risk.
+
+Note: You may only contribute to this project through pull requests directed at a newly created branch. You are not permitted to fork and distribute the code as your own or integrate it into another project without authorization.
+
+You may be held responsible for damages (including legal fees and attorney costs) if you falsely claim that a material or action does not infringe intellectual property rights. If you are unsure whether a specific item is infringing, we strongly recommend you consult a legal professional before proceeding.
+
+For licensing, contributions, collaboration, or commercial inquiries, please contact:  
+admin@wibu.me
+
+Nyakko Team  
+Preserving innovation, protecting community effort.
