@@ -177,3 +177,49 @@ Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP meth
 [2025-04-10 00:03:04 INF] Request starting HTTP/2 GET https://localhost:7140/ - null null
 [2025-04-10 00:03:04 INF] Request finished HTTP/2 GET https://localhost:7140/ - 404 0 null 159.129ms
 [2025-04-10 00:03:04 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7140/, Response status code: 404
+[2025-04-10 11:27:07 INF] Now listening on: https://localhost:7140
+[2025-04-10 11:27:07 INF] Now listening on: http://localhost:5159
+[2025-04-10 11:27:08 INF] Application started. Press Ctrl+C to shut down.
+[2025-04-10 11:27:08 INF] Hosting environment: Development
+[2025-04-10 11:27:08 INF] Content root path: D:\Users\Desktop\Project\Nyakko.EduConnect.Platform\Nyakko.EduConnect.API
+[2025-04-10 11:27:10 INF] Request starting HTTP/2 GET https://localhost:7140/ - null null
+[2025-04-10 11:27:11 INF] Request finished HTTP/2 GET https://localhost:7140/ - 404 0 null 200.0377ms
+[2025-04-10 11:27:11 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7140/, Response status code: 404
+[2025-04-10 11:27:20 INF] Request starting HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - null null
+[2025-04-10 11:27:20 INF] Request finished HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 12.6599ms
+[2025-04-10 11:27:20 INF] Request starting HTTP/2 GET https://localhost:7140/_vs/browserLink - null null
+[2025-04-10 11:27:20 INF] Request finished HTTP/2 GET https://localhost:7140/_vs/browserLink - 200 null text/javascript; charset=UTF-8 55.1241ms
+[2025-04-10 11:27:20 INF] Request starting HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - null null
+[2025-04-10 11:27:20 INF] Request finished HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 16.4282ms
+[2025-04-10 11:27:45 INF] Request starting HTTP/2 GET https://localhost:7140/api/users/say-hello?name=dkm%20fpt - null null
+[2025-04-10 11:27:45 INF] Executing endpoint 'Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API)'
+[2025-04-10 11:27:45 INF] Route matched with {action = "GetNameFromQuery", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetNameFromQuery(System.String) on controller Nyakko.EduConnect.API.Controllers.UserController (Nyakko.EduConnect.API).
+[2025-04-10 11:27:45 INF] Executing action method Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API) - Validation state: "Valid"
+[2025-04-10 11:27:45 INF] Executed action method Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.3415ms.
+[2025-04-10 11:27:45 INF] Executing OkObjectResult, writing value of type 'System.String'.
+[2025-04-10 11:27:45 INF] Executed action Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API) in 74.6195ms
+[2025-04-10 11:27:45 INF] Executed endpoint 'Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API)'
+[2025-04-10 11:27:45 INF] Request finished HTTP/2 GET https://localhost:7140/api/users/say-hello?name=dkm%20fpt - 200 null text/plain; charset=utf-8 114.399ms
+[2025-04-10 11:27:46 INF] Request starting HTTP/2 GET https://localhost:7140/api/users/say-hello?name=dkm%20fpt - null null
+[2025-04-10 11:27:46 INF] Executing endpoint 'Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API)'
+[2025-04-10 11:27:46 INF] Route matched with {action = "GetNameFromQuery", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetNameFromQuery(System.String) on controller Nyakko.EduConnect.API.Controllers.UserController (Nyakko.EduConnect.API).
+[2025-04-10 11:27:46 INF] Executing action method Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API) - Validation state: "Valid"
+[2025-04-10 11:27:46 INF] Executed action method Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.0383ms.
+[2025-04-10 11:27:46 INF] Executing OkObjectResult, writing value of type 'System.String'.
+[2025-04-10 11:27:46 INF] Executed action Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API) in 15.7777ms
+[2025-04-10 11:27:46 INF] Executed endpoint 'Nyakko.EduConnect.API.Controllers.UserController.GetNameFromQuery (Nyakko.EduConnect.API)'
+[2025-04-10 11:27:46 INF] Request finished HTTP/2 GET https://localhost:7140/api/users/say-hello?name=dkm%20fpt - 200 null text/plain; charset=utf-8 23.0397ms
+[2025-04-10 16:03:59 INF] Now listening on: https://localhost:7140
+[2025-04-10 16:03:59 INF] Now listening on: http://localhost:5159
+[2025-04-10 16:03:59 INF] Application started. Press Ctrl+C to shut down.
+[2025-04-10 16:03:59 INF] Hosting environment: Development
+[2025-04-10 16:03:59 INF] Content root path: D:\Users\Desktop\Project\Nyakko.EduConnect.Platform\Nyakko.EduConnect.API
+[2025-04-10 16:04:05 INF] Request starting HTTP/2 GET https://localhost:7140/ - null null
+[2025-04-10 16:04:05 INF] Request finished HTTP/2 GET https://localhost:7140/ - 404 0 null 168.7043ms
+[2025-04-10 16:04:05 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7140/, Response status code: 404
+[2025-04-10 16:04:07 INF] Request starting HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - null null
+[2025-04-10 16:04:07 INF] Request finished HTTP/2 GET https://localhost:7140/_framework/aspnetcore-browser-refresh.js - 200 13778 application/javascript; charset=utf-8 10.4884ms
+[2025-04-10 16:04:07 INF] Request starting HTTP/2 GET https://localhost:7140/_vs/browserLink - null null
+[2025-04-10 16:04:07 INF] Request finished HTTP/2 GET https://localhost:7140/_vs/browserLink - 200 null text/javascript; charset=UTF-8 65.8892ms
+[2025-04-10 16:04:07 INF] Request starting HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - null null
+[2025-04-10 16:04:07 INF] Request finished HTTP/2 GET https://localhost:7140/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 14.832ms

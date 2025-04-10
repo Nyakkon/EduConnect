@@ -6,22 +6,10 @@
     "version": "v1"
   },
   "paths": {
-    "/api/users/logs": {
+    "/api/HelloUser/say-hello": {
       "get": {
         "tags": [
-          "User"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/users/say-hello": {
-      "get": {
-        "tags": [
-          "User"
+          "HelloUser"
         ],
         "parameters": [
           {
